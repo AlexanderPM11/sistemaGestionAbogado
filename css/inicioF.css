@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+.contTitulo{
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+
+
+}
+
+.contParrafo{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    text-align: justify;
+    max-width: 900px;
+}
+/* .userRegi p{
+    
+    margin-left: 10px;
+    font-weight: bold;
+   color: rgb(114, 107, 14);
+   margin-bottom: 0px;
+}
+.fa-user-check{
+    font-size: 20px;
+} */

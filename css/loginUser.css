@@ -1,0 +1,32 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+.form_login{
+    width: 70%;
+    margin: auto;
+    max-width: 500px;
+    margin-top:-20px;
+    margin-bottom: 10px;
+    
+}
+.label_Eror{
+    display: none;
+    
+}
+.label_Er{
+    color: rgb(243, 49, 0);
+}
+.imgLogin{
+    margin:10px auto;
+    width: 40%;
+    height: auto;
+    max-width: 400px;
+    
+}
+.img_Lo{
+    width: 100%;
+    object-fit:scale-down;
+}

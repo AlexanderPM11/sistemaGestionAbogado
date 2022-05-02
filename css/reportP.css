@@ -1,0 +1,29 @@
+* {
+     box-sizing: border-box;
+ }
+table{
+    margin-top: 30px;
+    text-align: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+   width: 100%;
+   margin:5px auto;
+
+}
+.title h1{
+    margin-top:10px;
+    font-size: 23px;
+    text-align: center;
+}
+.contImgPrint{
+    width: 35%;
+    margin: auto;
+    max-width: 200px;
+}
+.contImgPrint .img_print{
+    width: 100%;
+    margin: auto;
+    object-fit: scale-down;
+}

@@ -1,0 +1,36 @@
+
+
+
+.form_login{
+    margin: auto;
+    width: 90%;
+    max-width: 500px;
+}
+.label_Er{
+    display: none;
+    color: red;
+}
+
+.messaError{
+    width: 90%;
+    margin: auto;
+    max-width: 500px;
+}
+.messaError p{
+    text-align: center;
+    color: red;
+    margin: auto;
+    font-weight: bold;
+}
+.imgLogin{
+    margin:10px auto;
+    width: 40%;
+    height: auto;
+    max-width: 300px;
+    
+}
+.img_Lo{
+    width: 100%;
+    object-fit:scale-down;
+}
+

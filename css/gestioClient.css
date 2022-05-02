@@ -1,0 +1,12 @@
+.contModal{
+    width:100% ;
+    height: auto !important;
+}
+input{
+    margin: 0px !important;
+    height: 25px !important;
+}
+label{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
